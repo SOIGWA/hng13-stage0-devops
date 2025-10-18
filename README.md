@@ -6,4 +6,4 @@ Slack Username: AndyO
 💪Project Description:
 This project deploys a live NGINX web server that serves a custom HTML page as part of the HNG13 Stage 0 DevOps challenge.
 
-🧑‍💻Server IP / Domain: http://your-public-ip/
+🧑‍💻Server IP / Domain: http:// https://remunerable-goodish-joie.ngrok-free.dev/
